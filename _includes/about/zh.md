@@ -1,31 +1,54 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 我们的创新将满足您的需要
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+**武汉铌欧能源材料有限公司**
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。目前在 [Facebook](https://www.facebook.com/) 写 [Reason](https://reasonml.github.io/) 与 [Messenger.com](http://messenger.com/) ，曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+专注于特种功能材料领域，是一家集研发、技术咨询、制造及销售于一体的高科技公司。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](https://zhuanlan.zhihu.com/p/21280918)。 
+公司的商业管理团队由在国际多家跨国公司工作多年、市场经验丰富的高管人员为主体组成；  
+研发团队有来自跨国公司、在国际享有盛名的科学家，以及来自欧美及中国的知名大学的教授。  
+公司以市场需求为导向及驱动力，以自主开发的、具有成套知识产权的、有机-无机杂化高分子复合材料核心技术为研发平台，
+坚持科技创新，长期致力于为现代科技、工业及社会提供具有特种功能的、安全且环保的新材料解决方案。
 
+#### 核心技术
 
-##### Talks
+有机-无机杂化高分子复合材料跨越了近20年来在材料学界受到广泛关注的纳米复合材料，在分子尺度上，从理论设计到实际工业大生产，成功地将无机分子的优秀物理性能和有机分子易于加工、易于制作以及卓越的柔韧特性，以化学键的方式巧妙的结合于一体。
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
+同时，还最大程度地有效避免了原单独组分各自固有的缺点。有机-无机杂化高分子复合材料不仅在极大地程度上地克服了传统材料科学的一些固有矛盾：硬即可能脆，柔就可能弱，异相成分不匹配等等缺点，而且还有稳定性高，品质可控，材料的结构及性能可设计、可控制等优点，可实现工业化大规模生产及应用。
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+这种巧妙的杂化技术，还产生一些全新的，两种独立组分都不具有的性质，为我们开发各种新型材料开辟了一条崭新的道路。
+
+该技术于2014年12月申请世界专利(PCT)，2016年05月获得美国专利局(US PTO)授权(发明专利号：US61723908)，2017年03月申请中国专利(申请号：201710183813.2)。
+
+![CORE TECHNOLOGY](/img/assets/technology.png)
+
+#### 专利证书
+
+![PATENT-01](/img/assets/patent-01.png)
+
+![PATENT-02](/img/assets/patent-02.png)
+
+![PATENT-03](/img/assets/patent-03.png)
+
+#### 领军成员
+
+**王执锴 博士**
+
+具有20多年在多家美国与欧洲跨国公司的新材料研究和产业化经验，历任首席科学家、科学技术总监，
+
+拥有30多项美国、欧洲、中国及世界发明专利，在多个国际著名杂志发表学术论文数十篇。
+
+曾赢得欧盟“玛丽\*居里研究基金”("Marie Curie Intra-European Fellowships")和全美粘合剂学会Carl A. Dahlquist最优论文奖，多次参与中国科学院和科技部的会议发言和自然科学奖评审。
+
+武汉大学和武汉理工大学的客座教授、讲座教授。中国外国专家局聘请来华工作的外国专家。
+
+**王思哲 博士**
+
+武汉大学物理化学博士，中科院宁波材料所博士后(在站)。主要从事有机-无机杂化材料、复合材料、特种功能材料的研发、应用及技术的产业化转化。
+
+部分成果已在国内外重要学术期刊及会议上发表或申请发明专利。
+
+**张登 高级研发工程师**
+
+武汉理工大学材料工程硕士。主要从事高机械强材料、超亲/疏水材料、红外阻隔材料等各种环保型特种功能材料的研究工作。
+
+从前期的产品研发与测试，到大批量生产与检测，再到实际应用与售后服务等方面，经验丰富。部分工作已申请发明专利。
