@@ -17,15 +17,15 @@
 
 该技术于2014年12月申请世界专利(PCT)，2016年05月获得美国专利局(US PTO)授权(发明专利号：US61723908)，2017年03月申请中国专利(申请号：201710183813.2)。
 
-![CORE TECHNOLOGY](/img/assets/technology.png)
+![CORE TECHNOLOGY](/assets/technology.png)
 
 #### 专利证书
 
-![PATENT-01](/img/assets/patent-01.png)
+![PATENT-01](/assets/patent-01.png)
 
-![PATENT-02](/img/assets/patent-02.png)
+![PATENT-02](/assets/patent-02.png)
 
-![PATENT-03](/img/assets/patent-03.png)
+![PATENT-03](/assets/patent-03.png)
 
 #### 领军成员
 

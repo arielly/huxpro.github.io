@@ -14,7 +14,7 @@ tags: [ 产品 ]
 
 多能态纳米复合膜是本公司多能态纳米复合材料在PET膜上的应用成果。本产品采用高清光学基材膜，是一款集防雾、抗结霜、隔热、隔紫外线、防爆等多重功能于一体的市场新产品。
 
-![PRODUCT-MFN-60F/MFN-60S](/img/assets/product-MFN-60FS-pi.png)
+![PRODUCT-MFN-60F/MFN-60S](/assets/product-MFN-60FS-pi.png)
 
 ## 主要技术指标 TECHNICAL SPECIFICATIONS
 
@@ -72,11 +72,11 @@ tags: [ 产品 ]
 
 ## 实验对比 EXPERIMENTAL CONTRAST
 
-![MFN-60F/MFN-60S VS 普通玻璃](/img/assets/product-MFN-60FS-ec01.png)
+![MFN-60F/MFN-60S VS 普通玻璃](/assets/product-MFN-60FS-ec01.png)
 
 如上图，将半边贴有多能态纳米复合膜的玻璃扣放在盛有70℃热水的水杯杯口，可见未贴多能态纳米复合膜的部分全部起雾，而贴有多能态纳米复合膜的部分完全没有起雾。
 
-![MFN-60F/MFN-60S VS 普通薄膜](/img/assets/product-MFN-60FS-ec02.png)
+![MFN-60F/MFN-60S VS 普通薄膜](/assets/product-MFN-60FS-ec02.png)
 
 如上图，左半边为多能态纳米复合膜，右半边为普通薄膜。经过在-20℃, 90%RH环境中冷冻24h后，普通薄膜表面超过一半面积已结霜，而多能态纳米复合膜表面完全未结霜。
 

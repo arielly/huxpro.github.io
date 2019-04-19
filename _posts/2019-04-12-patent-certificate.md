@@ -10,8 +10,8 @@ tags: [ 专利 ]
 
 # 专利证书
 
-![PATENT-01](/img/assets/patent-01.png)
+![PATENT-01](/assets/patent-01.png)
 
-![PATENT-02](/img/assets/patent-02.png)
+![PATENT-02](/assets/patent-02.png)
 
-![PATENT-03](/img/assets/patent-03.png)
+![PATENT-03](/assets/patent-03.png)
